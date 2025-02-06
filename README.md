@@ -1,3 +1,4 @@
+![Retail Sales Analysis](assets/A_retail-themed_image_depicting_a_variety_of_produ.png)
 
 # Retail Sales Analysis SQL Project
 
