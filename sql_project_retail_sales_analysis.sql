@@ -1,3 +1,6 @@
+
+CREATE DATABASE p1_retail_db;
+
 -- create table
 
 drop table if exists retail_sales;
@@ -33,7 +36,7 @@ where transactions_id is null;
 
 
 select * from retail_sales 
-where dale_date is null;
+where sale_date is null;
 
 
 select * from retail_sales
